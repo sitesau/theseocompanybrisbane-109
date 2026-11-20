@@ -1,0 +1,22 @@
+{
+  "wheel_id": 937,
+  "structure": "umbrella",
+  "slug": "theseocompanybrisbane-109",
+  "project": "brisbane-seo-services-planning-guide-b2920822c278ecbde9b734a75b",
+  "parent_t1_ref": "theseocompanybrisbane-155",
+  "node_role": "feeder",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "brisbane seo services planning guide",
+  "intended_url": "https://sitesau.github.io/theseocompanybrisbane-109/",
+  "tier": "T2",
+  "writeback_nonce": "c32c4382cb378d0c",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/brisbane-seo-services-b152fdc385e782fbbdb86b8b9ad9de8062914e64/",
+      "anchor": "Brisbane Seo Services: Services Explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
